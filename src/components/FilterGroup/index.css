@@ -1,0 +1,13 @@
+.type-employement-cont {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+.employement-type-head {
+  font-size: 20px;
+  margin: 0px;
+}
+.employment-type-ulist-cont {
+  list-style-type: none;
+  padding-left: 0px;
+}

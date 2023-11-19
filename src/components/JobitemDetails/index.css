@@ -1,0 +1,85 @@
+.job-items-details-cont {
+  background-color: #000000;
+  height: 100%;
+  color: white;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.job-item {
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+.job-details-cont {
+  margin-top: 30px;
+  width: 100%;
+  background-color: #202020;
+  border-radius: 10px;
+  padding: 20px;
+}
+.companylogo-title-cont {
+  display: flex;
+  align-items: center;
+}
+.comapany-logo-image {
+  width: 60px;
+  height: 60px;
+  margin-right: 20px;
+}
+.title-head {
+  font-size: 24px;
+  margin: 0px;
+}
+.loaction-package-cont {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.loaction-jobType-cont {
+  display: flex;
+  align-items: center;
+  padding-left: 0px;
+  width: 50%;
+}
+.loaction-cont {
+  display: flex;
+  align-items: center;
+}
+.description-head-comapanylink-cont {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.visitlink-cont {
+  display: flex;
+  align-items: center;
+}
+.skills-list-cont {
+  width: 90%;
+  list-style-type: none;
+  padding-left: 0px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.lifeatcompany-des-cont {
+  display: flex;
+  align-items: center;
+}
+.similar-head {
+  align-self: flex-start;
+}
+.similarjobs-list-cont {
+  list-style-type: none;
+  padding-left: 0px;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}

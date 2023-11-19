@@ -1,0 +1,18 @@
+.notfound-cont {
+  height: 100vh;
+  background-color: #272727;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.notfound-image {
+  width: 25%;
+  height: 30%;
+  margin-bottom: 20px;
+}
+h1 {
+  margin: 0px;
+  font-size: 24px;
+}
